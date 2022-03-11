@@ -14,10 +14,4 @@
 
 1. UI of all screens
 2. Register, Login, Load User
-3. Load Goals, Create Goal
-
-# Pending :--
-
-1. Update Goal
-2. Delete Goal
-3. Logout User
+3. Load Goals, Create Goal, Update Goal, Delete Goal
